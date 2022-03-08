@@ -1,0 +1,14 @@
+ls -> exibe os arquivos contidos nas pastas
+ls -a -> mostra os arquivos ocultos
+cd .. -> volta na pasta
+cd/ -> navega nas pastas
+ctrl L -> limpa o terminal
+mkdir "pasta" -> cria uma pasta 
+git add -> Faz com que o arquivo passe de untracked para stage
+git add . -> adiciona todos os arquivos novos ao controle de versões
+commit -> leva os arquivos de staged para unmodified
+git commit -m -> adiciona um comentário ao commit
+git init -> gera um repositório
+git push origin main -> envia os commits locais para a nuvem
+
+
